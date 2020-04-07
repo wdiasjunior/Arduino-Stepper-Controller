@@ -8,4 +8,4 @@ Parts used:
 - 4  A4988 stepper motor drivers
 - 4  NEMA 17 stepper motors
 - 2 buttons for upwards and downwards movement control
-- 2 sensors to limit the ammount of travel the motors are able to provide
+- 2 sensors to limit the amount of travel the motors are able to provide
