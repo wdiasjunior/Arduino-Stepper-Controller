@@ -16,7 +16,7 @@
 #define sensorFinalDeCursoTop 11
 #define sensorFinalDeCursoBottom 10
 
-int stepsX = 1600;//int stepsY = 1;int stepsZ = 1;// num de voltas/turns
+int stepsX = 1600;// num de voltas/turns
 int stepDelay = 300; //velocidade/speed
 
 void setup(){
