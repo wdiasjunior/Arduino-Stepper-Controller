@@ -7,5 +7,5 @@ Parts used:
 - CNC Shield
 - 4  A4988 stepper motor drivers
 - 4  NEMA 17 stepper motors
-- 2 buttons for upwards and downwards movement control
+- 2 buttons for upward and downward movement control
 - 2 sensors to limit movement
