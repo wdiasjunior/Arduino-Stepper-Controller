@@ -1,4 +1,4 @@
-# Arduino-Stepper-Controller
+# arduino-leveling-bed  
 Simple Arduino code for leveling bed using an Arduino UNO, a CNC Shield and 4 NEMA 17 motors .
 
 Parts used:
